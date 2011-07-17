@@ -63,7 +63,7 @@ Elenor frågar HP om han kan hjälpa henne laga en läckande kran uppe i tornrum
 
 > "En gång i tiden kunder jag böja minnen efter mig vilja. Numera har det blivit svårare, men det här ska jag nog klara av. Jag är den sista av mitt slag."
 
-Hon leder in HP i det andra rummet och sätter honom vid ett bord, med en stor skål i keramik. Hon fyller skålen med vatten från en karaf och uppmanar HP att slappna av och titta ner i vattnet. Han ser ingenting, men då trycker Mem ner hans ansikte i skålen. Förvånad ser han havsbotten nedanför, med räfflade sanddyner och vajande sjögräs. Fiskar simmar förbi i stim nedanför honom. Ett vitt ljus bländar honom och han ser sig själv sitta vid sin dator på jobbet, alldeles död inuti. Ljuset igen och han ser sin flickvän lämna honom. Sedan ser han sig själv bakom ratten i en bil, berusad och bedövad av sprit och piller. Det är natt och regnet piskar mot vindrutan. Långt framför honom dyker en väldig kastanj upp i skenet från hans helljus. Han trycker gasen i botten, kör av vägen och kör rakt mot trädet. Han kolliderar med en väldig smäll. Mem rycker upp hans huvud ur skålen.
+Hon leder in HP i det andra rummet och sätter honom vid ett bord, med en stor skål i keramik. Hon fyller skålen med vatten från en karaf och uppmanar HP att slappna av och titta ner i vattnet. Han ser ingenting, men då trycker Mem ner hans ansikte i skålen. Förvånad ser han havsbotten nedanför, med räfflade sanddyner och vajande sjögräs. Fiskar simmar förbi i stim nedanför honom. Ett vitt ljus bländar honom och han ser sig själv sitta vid sin dator på jobbet, alldeles död inuti. Ljuset igen och han ser sin flickvän lämna honom. Han ser sin lillasyster försöka trösta honom. Sedan ser han sig själv bakom ratten i en bil, berusad och bedövad av sprit och piller. Det är natt och regnet piskar mot vindrutan. Långt framför honom dyker en väldig kastanj upp i skenet från hans helljus. Han trycker gasen i botten, kör av vägen och kör rakt mot trädet. Han kolliderar med en väldig smäll. Mem rycker upp hans huvud ur skålen.
 
 > "Nå?"
 
@@ -87,7 +87,7 @@ Hon leder in HP i det andra rummet och sätter honom vid ett bord, med en stor s
 
 Elenor knackar på dörren till HPs rum, men ingen svarar. Hon öppnar dörren med huvudnyckeln och går in. HP ligger i sängen, med fördragna fönster. Det är instängt i rummet. HP har knappt visat sig på en vecka. Hon sätter ner en bricka med mat på hans nattduksbord. Han har inte rört maten som hon lämnade kvällen innan. Ett par dagar går på samma sätt, utan att han lämnar rummet och utan att han rör maten. En kväll märker hon sedan att han åtminstone ätit en smörgås. Morgonen efter ligger HP inte i sängen när hon kommer.
 
-HP står i badrummet och betraktar sin spegelbild igen. Blåmärkerna är borta, men han ser blek och glåmig ut. Han får en flashback från kraschen in i trädet igen. Sedan ser han sin mamma och pappa, förtvivlande, där de håller om varandra i en soffa.
+HP står i badrummet och betraktar sin spegelbild igen. Blåmärkerna är borta, men han ser blek och glåmig ut. Han får en flashback från kraschen in i trädet igen. Sedan ser han sin lillasyster, förtvivlad, där hon sitter själv i en soffa.
 
 Trädgårdsmästaren tjatar på HP, tills han går med på att hjälpa honom röja i trädgården.
 
@@ -105,11 +105,11 @@ HP sitter på sitt rum i källaren, bedövad inuti. Han skär sig med en kniv i 
 
 HP berättar att han inte hör hemma här, att han måste ta sig hem till sin egen värld. Dagny lyssnar medlidsamt.
 
-> "Ja, komma härifrån är ingen lätt uppgift. Jag vet många som har försökt, men som inte lyckats. Om det är någon tröst har de funnit sig väl tillrätta här tillslut. Det är inget dumt ställe, det här."
+> "Ja, komma härifrån är ingen lätt uppgift. Jag vet många som har försökt, men som inte lyckats. Om det är någon tröst har de funnit sig väl tillrätta här till slut. Det är inget dumt ställe, det här."
 
 ...
 
-Genom monstrets ögon ser vi den skugga av en man hon håller sig med. Han har ett blekt skimmer som flämtar omkring honom, som en ljuslåga som är på väg att slockna. Mannen ber henne att äta av honom. Hon tänker på den nya mannen, på HP. Han lyser starkt av ett blått ljus, inte som det patetiska vraket vid hennes fötter. Mannen på golver bönfaller henne och hon biter honom i bröstet, punkterar bröstbenet och dricker hans märg. Sedan sprutar hon in sitt förslavande gift, ett gift som binder honom till henne.
+Genom monstrets ögon ser vi den skugga av en man hon håller sig med. Han har ett blekt skimmer som flämtar omkring honom, som en ljuslåga som är på väg att slockna. Mannen ber henne att äta av honom. Hon tänker på den nya mannen, på HP. Han lyser starkt av ett blått ljus, inte som det patetiska vraket vid hennes fötter. Mannen på golver bönfaller henne och hon biter honom i bröstet, punkterar bröstbenet och dricker hans märg.
 
 ...
 
@@ -135,23 +135,74 @@ De tittar upp mot himmeln. Elenor berättar att det bara är en tunn hinna som s
 
 > "Mannen som tog hand om mig berättade. Waldo. Han vet mycket. Kanske vet han något som kan hjälpa dig."
 
-HP ger sig ut i skogen och hittar den gamla stugan som eremiten bodde i. Den är helt förfallen. En bit ifrån hittar han en man, fastvuxen i jorden, med kläder och hår täckt av mossa. Mannen vaknar till liv när HP tilltalar honom och reser sig upp. När han rör sig sliter han loss hundratals små rötter ur marken. Han är ett mellanting mellan växt och människa. HP berättar om sitt ärende.
+HP och Elenor stämmer möte i skogen dagen efter.
+
+HP vaknar i vargtimmen med svår ångest. Han fuktig av svett och sängkläderna är dyngsura. Han tänder lampan på nattduksbordet och ser att täcket är fullt av spindlar. Han skriker i panik och kastar täcket åt sidan. Han springer ut i korridoren och står där och skakar. Efter en stund tar han mod till sig och går in i sitt rum igen. Han lyfter på täcket, men där finns inga spindlar.
+
+När HP väntar på Elenor möter han Dagny, som nu är klädd i vanliga kläder. Hon ler glatt mot honom. När HP försöker gå förbi honom mörknar hennes blick och hon puttar ner honom på stigen med våldsam kraft. Åtta ben växer fram under Dagny, hon lyfts upp i luften och en enorm spindelkropp tar form under henne. Dagny sitter kvar på ett spröt, som en marionettdocka. Hon fortsätter prata, med gäll röst.
+
+> "Jag vill ha dig. Jag ser din förtvivlan, din smärta. Den doftar sött och förträffligt. Jag ser den lysa omkring dig. Ligg stilla, pojke lilla. Ge din förtvivlan till mig. Jag kan skänka dig frid."
+
+Monstret börjar linda in honom i klibbigt nät, när det träffas av en sten i ena ögat. Elenor skriker bakom HP.
+
+> "HP! Skynda dig, följ med mig!"
+
+De flyr tillsammans genom skogen, med det rasande monstret i hälarna. De skakar henne av sig och kommer till en gammal stuga i skogen. Den är helt förfallen. En bit ifrån hittar de en man, fastvuxen i jorden, med kläder och hår täckt av mossa. Mannen vaknar till liv när HP tilltalar honom och reser sig upp. När han rör sig sliter han loss hundratals små rötter ur marken. Han är ett mellanting mellan växt och människa. HP berättar om sitt ärende.
 
 > "Sitt med mig", sa Waldo och slog sig ner igen. "Sitt och lyssna."
 
 > HP slog sig ner bredvid honom med benen i kors. Waldo var alldeles tyst. Det knastrade när han slog rot igen. De satt tillsammans medan solen sjönk mot horisonten och skiftade färg till orange. Fåglar började sjunka i skymningen. HPs ben hade somnat för länge sedan, när Waldo rörde sina läppar igen.
 
-Waldo berättar att han inte är död. Inte ännu. Men det brådskar om han ska härifrån. Det är hans namn som är nyckeln. När han minns sitt namn kan han komma tillbaka till den vanliga världen.
+Waldo berättar att han inte är död. Inte ännu. Men det brådskar om han ska härifrån. Det är hans namn som är nyckeln. När han minns sitt namn kan han komma tillbaka till den vanliga världen. 
 
-På vägen tillbaka genom skogen möter han Dagny, som nu är klädd i vanliga kläder. Hon ler glatt mot honom. När HP försöker gå förbi honom mörknar hennes blick och hon puttar ner honom på stigen med våldsam kraft. Sex ben växer fram under Dagny, hon lyfts upp i luften och en enorm spindelkropp tar form under henne. Dagny sitter kvar på ett spröt, som en marionettdocka. Hon fortsätter prata, med gäll röst.
+> "Men hur ska jag göra för att komma ihåg vad jag heter? Jag har redan provat alla sätt, men ingenting har fungerat."
 
-> "Jag vill ha dig. Jag ser din förtvivlan, din smärta. Den doftar sött och förträffligt. Jag ser den lysa omkring dig. Ligg stilla, pojke lilla. Kämpa inte emot. Snart är du min."
+> "Du har försökt för mycket. Precis som sömnen är minnen ingenting man kan tvinga fram. Du måste släppa taget, låta det komma av sig själv."
 
-Monstret skall just bita honom och spruta honom full med sitt gift, när den träffas av en sten. Elenor skriker bakom HP.
+> "Men du sa ju själv att det var bråttom."
 
-> "HP! Skynda dig, följ med mig!"
+> "Ja. Men det finns inget motsatsförhållande mellan att släppa taget och att ha bråttom."
 
-De flyr tillsammans genom skogen, med det rasande monstret i hälarna. De undkommer och tar sig till pensionatet, med hjärtat i halsgropen.
+HP berättar om monstret. Waldo känner igen henne som Arachne, en uråldrig best som livnär sig på förtvivlan. Hon kan inte tvinga till sig den, utan den måste erbjudas henne av hennes offer. När hon dricker den får de tillfällig ångestlindring, vilket skapar ett beroende.
 
 # Tredje delen -- attack
 
+HP följer med Elenor ner till åstranden, där hon ställer upp ett staffli och börjar måla av landskapet. Hon har målat hundratals tavlor här. HP förstår inte hur detta ska kunna hjälpa honom att släppa taget, men Elenor förklara att det handlar om att se.
+
+> "Se dig omkring. Se skönheten i detaljerna. De hur molnen inte alls är grå, utan hur de skiftar i toner av blått."
+
+HP testar att lägga sig ner för att försöka lösa upp gränsen mellan sig själv och omgivningen. Det går en liten stund, men sedan blir han rastlös.
+
+> "Kommer det här verkligen att fungera?"
+
+> "Inte så länge du gör det så målmedetet."
+
+> "Hur skulle det inte kunna vara målmedetet? Jag gör ju det för att komma ihåg vad jag heter, så jag kan komma härifrån."
+
+> "Jag vet, men försök att släppa taget för att se hur det är att släppa taget. Det är det som är huvudsaken. Allt annat är bara en lycklig bieffekt."
+
+...
+
+HP försöker frammana minnesbilden av sin syster, men ansiktet flyter iväg, som rök.
+
+Ur Dagnys POV ser vi hur hennes tidigare följeslagare ligger på knä i en jordig håla och ber till henne om att inte kasta bort honom. Hon ser på honom med förrakt. Det blå ljuset i honom flämtar svagare. Hon kastar bokstavligt talat ut honom. Hon tänker på HP, på hur delikat hans förtvivlan måste vara.
+
+HP och Elenor älskar med varandra på HPs rum. I avslappningen efter klimax dyker HPs namn upp i hans huvud. Han känner hur välrden börjar lösas upp omkring honom, men han klamrar sig fast. Ham väcker Elenor och berättar för henne. Han vill att hon ska följa med honom, men hon är tveksam. Det här är hennes värld nu. Hon lovar att fundera på saken. Hon är tvungen att resa bort över dagen under morgondagen och de stämmer träff på kvällen.
+
+Dagen efter provar HP hur långt bort han kan komma från pensionatet. Han står vid den förra gränsen, släpper taget om sina tankar och sjunker ner i världen omkring honom. Sedan tar han ett steg fram, och ett till. Förtjust märker han att han inte dyker upp vid pensionatet, utan kommer längre bort än någonsin.
+
+Det är kväll när han går stigen tillbaka till pensionatet. Redan på långt håll ser han lågor och en enorm rökpelare. Han börjar springa och ser att pensionatet står i lågor. Alla gäster står ute på gräsmattan. Elenor finns ingenstanns. Någon såg henne gå in genom ytterdörren tidigare under kvällen. HP tar sig in i det  brinnande huset, fram till Elenors lägenhet. Den är tom, men där finns spår av strid. Spindelväv klibbar överallt.
+
+På vägen ut attackeras HP av Dagnys tidigare följeslagare. Han är svartsjuk över att ha blivit förskjuten och försöker nu ta livet av HP, medan byggnaden börjar rasa ihop omkring dem. HP lyckas övermanna honom. Han tvingar ur honom vart Dagny har fört Elenor.
+
+# Del fyra - resolution
+
+...
+
+HP hittar Dagnys jordhåla. Nere i mörkret hittar han Elenor, bunden i nät. Han försöker skära loss henne när Dagny dyker upp. Dagny försöker övertyga honom om att hans liv är meningslöst, allt han bara kommer känna smärta. Hon kan befria honom. HP försöker kämpa emot. Han hugger mot Dagny med en kniv, men hon växter sig bara större ju mer han kämpar. Elenor påminner honom om den kinesiska fingerfällan. HP kastar sin kniv och sätter sig ner. Han säger sitt namn och världen börjar bli genomskinlig. Dagny blir ursinning, kastar sig över Elenor och ger henne ett giftbett. HP rusar dit och suger giftet ur hennes sår. Han ligger och dör i Elenors armar, men hinner sänka sitt namn för att ta sig därifrån i sista stund.
+
+> "Jag kommer att hitta dig", sa HP.
+
+HP vaknar upp i en sjukhussäng, med slangar i näsa och hals. Han hostar, tills han blir extuberad. Han har förlorat ett ben i olyckan och har legat i koma i fem dagar. Hans lillasyster kommer och hälsar på honom. Han blir bedömd av en psykiatriker, som inte finner honom suicidal längre.
+
+En månad senare befinner han sig på rehabssjukhuset i Orup. Där träffar han en anna patient, som på pricken liknar Elenor.
