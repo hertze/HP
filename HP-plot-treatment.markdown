@@ -75,7 +75,11 @@ Hon frågar lite om vem han är och han berättar att han inte vet, att han har 
 
 > "En gång i tiden kunder jag böja minnen efter mig vilja. Numera har det blivit svårare, men det här ska jag nog klara av."
 
-Hon leder in HP i det andra rummet och sätter honom vid ett bord, med en stor skål i keramik. Hon fyller skålen med vatten från en karaf och uppmanar HP att slappna av och titta ner i vattnet. Han ser ingenting, men då trycker Mem ner hans ansikte i skålen. Förvånad ser han havsbotten nedanför, med räfflade sanddyner och vajande sjögräs. Fiskar simmar förbi i stim nedanför honom. Ett vitt ljus bländar honom och han ser sig själv sitta vid sin dator på jobbet, alldeles död inuti. Ljuset igen och han ser sin flickvän lämna honom. Han ser sin lillasyster försöka trösta honom. Sedan ser han sig själv bakom ratten i en bil, berusad och bedövad av sprit och piller. Det är natt och regnet piskar mot vindrutan. Långt framför honom dyker en väldig kastanj upp i skenet från hans helljus. Han trycker gasen i botten, kör av vägen och kör rakt mot trädet. Han kolliderar med en väldig smäll. Mem rycker upp hans huvud ur skålen.
+Hon leder in HP i det andra rummet och sätter honom vid ett bord, med en stor skål i keramik. Hon fyller skålen med vatten från en karaf och uppmanar HP att slappna av och titta ner i vattnet. Han ser ingenting, men då trycker Mem ner hans ansikte i skålen. Förvånad ser han havsbotten nedanför, med räfflade sanddyner och vajande sjögräs. Fiskar simmar förbi i stim nedanför honom. Ett vitt ljus bländar honom och han ser sig själv stå vid en sjukhussäng. I sängen ligger hans mamma och dör. Hon ber honom att ta hand om lillasyster. Sedan sig själv sitta vid sin dator på jobbet, alldeles död inuti. Ljuset igen och han ser sin flickvän lämna honom. Han ser sig själv och sin flickvän stå vid sina föräldrars gravsten. Hon säger:
+
+> "Lova mig att du inte lämnar mig. Jag behöver dig."
+
+Sedan ser han sig själv bakom ratten i en bil, berusad och bedövad av sprit och piller. Det är natt och regnet piskar mot vindrutan. Långt framför honom dyker en väldig kastanj upp i skenet från hans helljus. Han trycker gasen i botten, kör av vägen och kör rakt mot trädet. Han kolliderar med en väldig smäll. Mem rycker upp hans huvud ur skålen.
 
 > "Nå?"
 
@@ -99,9 +103,47 @@ Hon leder in HP i det andra rummet och sätter honom vid ett bord, med en stor s
 
 Elenor knackar på dörren till HPs rum, men ingen svarar. Hon öppnar dörren med huvudnyckeln och går in. HP ligger i sängen, med fördragna fönster. Det är instängt i rummet. HP har knappt visat sig på en vecka. Hon sätter ner en bricka med mat på hans nattduksbord. Han har inte rört maten som hon lämnade kvällen innan. Ett par dagar går på samma sätt, utan att han lämnar rummet och utan att han rör maten. En kväll märker hon sedan att han åtminstone ätit en smörgås. Morgonen efter ligger HP inte i sängen när hon kommer.
 
-HP står i badrummet och betraktar sin spegelbild igen. Blåmärkerna är borta, men han ser blek och glåmig ut. Han får en flashback från kraschen in i trädet igen. Sedan ser han sin lillasyster, förtvivlad, där hon sitter själv i en soffa.
+HP står i badrummet och betraktar sin spegelbild igen. Blåmärkerna är borta, men han ser blek och glåmig ut. Hans spegelbild tonar över i bilder från crashen igen. Sedan ser han sin lillasyster, förtvivlad, där hon sitter själv i en soffa. HP tvivlar på att det han sett verkligen har inträffat. Är det inbillning? Håller han på att bli galen?
 
-Trädgårdsmästaren tjatar på HP, tills han går med på att hjälpa honom röja i trädgården.
+> "Det kan inte vara sant. Hur skulle det kunna vara sant? Hur skulle jag kunna göra en sådan sak?"
+
+Han kastar på sig kläder och springer upp till Mems lilla lägenhet och knackar på. Han frågar henne om han får lov att se i källan en gång till.
+
+> "Varför?" frågade Mem
+
+> "Det måste ha blivit något fel", sa HP. "Jag tror inte på det jag såg. Jag måste få se en gång till."
+
+Mem suckar och häller upp källan på nytt. HP stirrar ner, ser havbotten och fiskarna, men ingen mer.
+
+> "Du måste slappna av", säger Mem. "Man kan inte tvingar fram minnen. Slappna av."
+
+HP försöker slappna av, men inget händer. Till slut ger han upp.
+
+> "Du såg det du såg", sa Mem. "Källan ljuger inte. Den visar dina egna minnen."
+
+> "Kan det vara ett falskt minne? Det finns väl falska minnen, gör det inte det?"
+
+> "I teorin kan man skapa falska minnen, men jag tror inte det i ditt fall."
+
+> "Varför inte?"
+
+> "Titta på din kropp. Du är blåslagen. Precis som om du varit med om en svår olycka."
+
+> "Det får inte vara sant. Det får inte."
+
+Mem lägger handen på hans kind och tröstar honom.
+
+> "Det som har hänt har hänt. Det kan du inte ändra på. Frågan är vad du skall göra med dig själv framöver. Det här är en andra chans. Här, hos oss."
+
+> "Men det här är inte verkligt."
+
+> "Är det inte? Vad är verkligt?"
+
+> "Det här är inte min verklighet. Det här är inte min värld."
+
+> "Men det skulle kunna bli. Här har du chansen att börja om på nytt."
+
+Trädgårdsmästaren tjatar på HP, tills han går med på att hjälpa honom rensa gången fri från ogräs.
 
 > "Det gör dig inget gott att sitta här i mörkret. Du behöver komma ut i solen, ut till våren."
 
@@ -113,11 +155,11 @@ HP sitter på sitt rum i källaren, bedövad inuti. Han skär sig med en kniv i 
 
 > "Det är -- ett är inget vidare."
 
-> "Inte?" Hon la ner sin stickning och visade mot stolen bredvid hennes. "Kom och sätt dig. Det finns säkert något vi kan göra åt saken. Det finns det alltid."
+> "Inte?" Hon la ner sin stickning och visade mot stolen bredvid hennes. "Kom och sätt dig."
 
 HP berättar att han inte hör hemma här, att han måste ta sig hem till sin egen värld. Mem lyssnar medlidsamt.
 
-> "Ja, komma härifrån är ingen lätt uppgift. Jag vet många som har försökt, men som inte lyckats. Om det är någon tröst har de funnit sig väl tillrätta här till slut. Det är inget dumt ställe, det här."
+> "Ja, komma härifrån är ingen lätt uppgift. Jag vet många som har försökt, men som inte lyckats. Om det är någon tröst har de funnit sig väl tillrätta här till slut. Det är verkligen inget dumt ställe, det här."
 
 ...
 
@@ -177,6 +219,12 @@ Waldo berättar att han inte är död. Inte ännu. Men det brådskar om han ska 
 
 HP berättar om monstret. Waldo känner igen henne som Arachne, en uråldrig best som livnär sig på förtvivlan. Hon kan inte tvinga till sig den, utan den måste erbjudas henne av hennes offer. När hon dricker den får de tillfällig ångestlindring, vilket skapar ett beroende.
 
+> "Hon är en parasit. En rest från den gamla världen."
+
+HP och Elenor slår läger i den gamla fallfärdiga stugan. HP står i solnedgången och ser ut över sjön Walden.
+
+> "Hur fan ska jag kunna lära mig att släppa taget?"
+
 # Tredje delen -- attack
 
 HP följer med Elenor ner till åstranden, där hon ställer upp ett staffli och börjar måla av landskapet. Hon har målat hundratals tavlor här. HP förstår inte hur detta ska kunna hjälpa honom att släppa taget, men Elenor förklara att det handlar om att se.
@@ -193,11 +241,39 @@ HP testar att lägga sig ner för att försöka lösa upp gränsen mellan sig sj
 
 > "Jag vet, men försök att släppa taget för att se hur det är att släppa taget. Det är det som är huvudsaken. Allt annat är bara en lycklig bieffekt."
 
-...
+HP provar hur långt från pensionatet han kan komma innan välrden böjer sig och han kommer tillbaka. Han kommer fortfarande inte längre än senast han försökte. Han blir enormt frustrerad.
 
-HP försöker frammana minnesbilden av sin syster, men ansiktet flyter iväg, som rök.
+HP försöker frammana minnesbilden av sin syster, men ansiktet flyter iväg, som rök. Han hör ekot av hennes röst:
 
-Ur Mems POV ser vi hur hennes tidigare följeslagare ligger på knä i en jordig håla och ber till henne om att inte kasta bort honom. Hon ser på honom med förrakt. Det blå ljuset i honom flämtar svagare. Hon kastar bokstavligt talat ut honom. Hon tänker på HP, på hur delikat hans förtvivlan måste vara.
+> "Lova mig att du inte lämnar mig. Lova mig."
+
+HP sitter vid åstranden igen tillsammans med Elenor. Hon guidar honom i en typ av mindfulness, där han ska försöka fokusera på detaljerna i sin omgivning och sjunka ner i verkligeheten utanför honom. Det går en stund, men sedan kryper det av rastlöshet i honom.
+
+> "Det går inte. Det är fan omöjligt."
+
+Han hoppar upp och går därifrån, genom skogen. På stigen möter han på nytt Mem, som sitter på en sten klädd i ljusblå klänning av rätt modernt snitt. HP fryser till. Spindelmonstret växer fram under henne och HP paralyseras av skräck.
+
+> "Jag ser förtvivlan i dig", sa monstret. "Jag ser den lysa i dig. Låt mig få den. Ge den till mig."
+
+Hon kryper över honom och lägger hela sin tyngd på hans kropp. Hans bröstkorg trycks samman och han får inte luft.
+
+> "Ge den till mig. Låt mig lindra din smärta."
+
+HP tänker på sin förtvivlade syster igen. Han ser sig själv. förtvivlad, när han styr sin bil mot trädet. Sorgen och ilskan sliter i honom.
+
+> "Ta den", väste han. "Ta den för helvete."
+
+> "Tack", sa Mem.
+
+Hon biter honom i bröstbenet och han känner hur det spänner när hon suger. All ångest smälter undan och ersätts av eufori. Han känner sig fjäderlätt och glad.
+
+> "Det -- det känns fantastiskt."
+
+> "Så här skulle du kunna ha det resten av livet.
+
+HP kommer till sans. Han ser spindelmonstret över sig och vaknar upp ur lyckoruset. Han fångar en näve jord och kastar den i ögat på monstret, som vrålar till och kastar sig åt sidan. HP springer in i skogen. Monstret vrålar i fjärran.
+
+Dagen efter går de ner till åstranden igen. Elenor tar fram en glasburk med en spindel. HP får ångestpådrag och hoppar upp på fötter redo för att fly. Elenor guidar honom att stå emot. Ångesten mildras. Efter ett tag öppnar hon burken och efter ytterligare en stund kan han låta spideln krypa på honom. Han blir alldeles upprymd över sina framsteg.
 
 HP och Elenor älskar med varandra på HPs rum. I avslappningen efter klimax dyker HPs namn upp i hans huvud. Han känner hur välrden börjar lösas upp omkring honom, men han klamrar sig fast. Ham väcker Elenor och berättar för henne. Han vill att hon ska följa med honom, men hon är tveksam. Det här är hennes värld nu. Hon lovar att fundera på saken. Hon är tvungen att resa bort över dagen under morgondagen och de stämmer träff på kvällen.
 
@@ -209,7 +285,7 @@ På vägen ut attackeras HP av Mems tidigare följeslagare. Han är svartsjuk ö
 
 # Del fyra - resolution
 
-...
+HP ger sig iväg till Mems håla. Han går till utkanten av hur långt han tidigare kommit och står där vid gränsen. Han sluter ögonen och låter sig själv sjunka ner i världen omkring honom. Andetagen blir långsammare, hjärtat lugnar sig. Så tar han ett steg frammåt och öppnar ögonen. Han är kvar, han har inte dykt upp vid hotellet igen. Han tar ett steg till och ett till. Så här långt bort har han aldrig kommit tidigare. Han fortsätter gå stigen fram.
 
 HP hittar Mems jordhåla. Nere i mörkret hittar han Elenor, bunden i nät. Han försöker skära loss henne när Mem dyker upp. Mem försöker övertyga honom om att hans liv är meningslöst, allt han bara kommer känna smärta. Hon kan befria honom. HP försöker kämpa emot. Han hugger mot Mem med en kniv, men hon växter sig bara större ju mer han kämpar. Elenor påminner honom om den kinesiska fingerfällan. HP kastar sin kniv och sätter sig ner. Han säger sitt namn och världen börjar bli genomskinlig. Mem blir ursinning, kastar sig över Elenor och ger henne ett giftbett. HP rusar dit och suger giftet ur hennes sår. Han ligger och dör i Elenors armar, men hinner sänka sitt namn för att ta sig därifrån i sista stund.
 
