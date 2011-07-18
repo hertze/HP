@@ -251,7 +251,7 @@ HP sitter vid åstranden igen tillsammans med Elenor. Hon guidar honom i en typ 
 
 > "Det går inte. Det är fan omöjligt."
 
-Han hoppar upp och går därifrån, genom skogen. På stigen möter han på nytt Mem, som sitter på en sten klädd i ljusblå klänning av rätt modernt snitt. HP fryser till. Spindelmonstret växer fram under henne och HP paralyseras av skräck.
+Han hoppar upp och går därifrån, genom skogen. Efter ett tag märker han hur spindelväv klistrar fast i hans byxben. Han slår undan dem, men det blir mer och mer spindelväv på stigen. Tillslut ser han hur hela stigen är blockerad av en vägg av vit klibbig väv. Det har blivit som en återvändsgränd. När han vänder sig om står spindelmonstret där, med Mem som en marionett på ena frambenet. HP paralyseras av skräck, snubblar baklänges och faller ner på stigen.
 
 > "Jag ser förtvivlan i dig", sa monstret. "Jag ser den lysa i dig. Låt mig få den. Ge den till mig."
 
