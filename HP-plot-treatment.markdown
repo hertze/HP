@@ -2,7 +2,7 @@ latex input:			mmd-generic-header
 Title: 					HP -- plot treatment
 Author:					Joakim Hertze
 Quotes Language:		Swedish
-Base Header Level: 		3
+Base Header Level: 	3
 latex input:			mmd-generic-begin-doc
 latex footer:			mmd-generic-footer
 
@@ -310,7 +310,11 @@ HP ser sin systers ansikte och kommer till sans. Han ser spindelmonstret över s
 
 Dagen efter går HP upp till Mems lägenhet och låser upp med sin huvudnyckel. Där är tomt, men spindelväv finns lite här och var och den får honom att rysa. Han låser upp den låsta dörren. Det stinker där inne. Smuts och avföring finns på golvet. En knölig och fläckig madrass ligger i hörnet. Fönstret är förtäckt. Han går in till det angränsande rummet och ser att skålen han sett sina minnen i är borta.
 
-Det börjar bli höst och träden börjar skifta färg. HP och Elenor går ner till åstranden igen. Elenor tar fram en glasburk med en spindel. HP får ångestpådrag och hoppar upp på fötter redo för att fly. Elenor guidar honom att stå emot. Ångesten mildras. Efter ett tag öppnar hon burken och efter ytterligare en stund kan han låta spideln krypa på honom. Han blir alldeles upprymd över sina framsteg. Utan att tänka kysser han Elenor på munnen. De tittar tvekande på varandra, sedan kysser han henne. Hon tar hans hand och leder honom springande tillbaka till pensionatet. HP och Elenor älskar med varandra i Elenors säng. I avslappningen efter klimax dyker HPs namn upp i hans huvud. Han känner hur världen börjar lösas upp omkring honom, men han klamrar sig fast. Han väcker Elenor och berättar för henne. Han vill att hon ska följa med honom, men hon är tveksam. Det här är hennes värld nu. Hon lovar att fundera på saken. Hon är tvungen att resa bort över dagen under morgondagen och de stämmer träff på kvällen.
+Det börjar bli höst och träden börjar skifta färg. HP och Elenor går ner till åstranden igen. Elenor tar fram en glasburk med en spindel. HP får ångestpådrag och hoppar upp på fötter redo för att fly. Elenor guidar honom att stå emot. Ångesten mildras. Efter ett tag öppnar hon burken och efter ytterligare en stund kan han låta spideln krypa på honom. Han blir alldeles upprymd över sina framsteg. Utan att tänka kysser han Elenor på munnen. De tittar tvekande på varandra, sedan kysser han henne. Hon tar hans hand och leder honom springande tillbaka till pensionatet. HP och Elenor älskar med varandra i Elenors säng. I avslappningen efter klimax dyker HPs namn upp i hans huvud. Han känner hur världen börjar lösas upp omkring honom, men han klamrar sig fast. Han väcker Elenor och berättar för henne. Han vill att hon ska följa med honom, men hon är tveksam. Det här är hennes värld nu.
+
+> "Du är rädd, eller hur?" sa HP. Elenor svarade inte. "Du är rädd för vilket liv du har lämnat efter dig."
+
+Hon lovar att fundera på saken. Hon är tvungen att resa bort över dagen under morgondagen och de stämmer träff på kvällen.
 
 Dagen efter provar HP hur långt bort han kan komma från pensionatet. Han står vid den förra gränsen, släpper taget om sina tankar och sjunker ner i världen omkring honom. Sedan tar han ett steg fram, och ett till. Förtjust märker han att han inte dyker upp vid pensionatet, utan kommer längre bort än någonsin.
 
@@ -336,10 +340,42 @@ Han gnuggar barren ur ögonen och sätter sig upp. Myrlingar står framför hono
 
 > "Arachne", sa myrligarna.
 
-De började springa genom skogen, som små lysande irrbloss. HP kommer på fötter och följer efter dem. Andfådd kommer de fram till ett hål ner i underjorden, under rötterna till en väldig ask. Myrligarna försvinner ner. HP tvekar en kort stund och letar sig sedan själv nedåt, genom en fuktig tunnel med jordväggar. Han hör Mem vråla i fjärran. Spindelväv täpper till gången här och var och han måste skära sig igenom. Nere i mörkret hittar han Elenor, bunden i nät, som en kokong. Han skär ut henne, men hon är livlös. När han lägger örat mot hennes bröst hör han hjärtljud och han bankar henne på bröstet, lägger läpparna mot hennes mun och gör några tafatta inblåsningar. Hon vaknar långsamt till liv. Stödd mot HP börjar de ta sig ut. De går uppåt, men HP inser till slut att de gått vilse. Det är som en labyrint av gångar. De kommer tillbaka till samma håla som de börjat. Mem dyker upp ur mörkret. Hon försöker övertyga honom om att hans liv är meningslöst, allt han bara kommer känna smärta. Hon kan befria honom. HP försöker kämpa emot. Han hugger mot Mem med lien, men hon växter sig bara större ju mer han kämpar. Elenor påminner honom om den kinesiska fingerfällan. HP kastar sin kniv och sätter sig ner. Han säger sitt namn och världen börjar bli genomskinlig. Mem blir ursinning, kastar sig över Elenor och ger henne ett giftbett. HP rusar dit och suger giftet ur hennes sår. Han ligger och dör i Elenors armar, men hinner säga sitt namn för att ta sig därifrån i sista stund.
+De började springa genom skogen, som små lysande irrbloss. HP kommer på fötter och följer efter dem. Andfådd kommer de fram till ett hål ner i underjorden, under rötterna till en väldig ask. Myrligarna försvinner ner. HP tvekar en kort stund och letar sig sedan själv nedåt, genom en fuktig tunnel med jordväggar. Han hör Mem vråla i fjärran. Spindelväv täpper till gången här och var och han måste skära sig igenom. Nere i mörkret hittar han Elenor, bunden i nät, som en kokong. Han skär ut henne, men hon är livlös. När han lägger örat mot hennes bröst hör han hjärtljud och han bankar henne på bröstet, lägger läpparna mot hennes mun och gör några tafatta inblåsningar. Hon vaknar långsamt till liv. Stödd mot HP börjar de ta sig ut. De går uppåt, men HP inser till slut att de gått vilse. Det är som en labyrint av gångar. De kommer tillbaka till samma håla som de börjat. Mem dyker upp ur mörkret. Hon biter och slår efter myrlingarna, som svärmar omkring henne. Med ett vrål sliter hon dem i stycken. Hon ser HP och Elenor och tränger upp dem mot väggen.
 
-> "Jag kommer att hitta dig", sa HP.
+Hon försöker övertyga HP om att hans liv är meningslöst, allt han bara kommer känna smärta. Hon kan befria honom. HP försöker kämpa emot. Han hugger mot Mem med lien, och lyckas kapa av ett av hennes framben. Det växer genast ut ett nytt och hela monstret växer sig i storlek. HP hugger efter det igen, men ju mer han kämpar, desto större växer det sig.
+
+> "HP, du kan inte slå henne på det här sättet. Hon blir bara starkare ju mer du kämpar emot. Kommer du ihåg min kinesiska fingerfälla?"
+
+HP lägger ner lien och sätter sig ner bredvid Elenor.
+
+> "Kom med mig", sa HP. "Följ med mig hem."
+
+Elenor tvekar. Monstret väser i bakgrunden.
+
+> "Ok", sa hon. "Ok. Jag följer med."
+
+De tar varandras händer. Världen börjar lösas upp omkring dem. Mem vrålar.
+
+> "Nej! Nej, du stannar här! Du kommer inte undan mig!"
+
+Det kastar sig fram och biter Elenor och sprutar in gift i henne.
+
+> "Nej!" skrek HP. Jordväggarna blev fasta igen omkring honom. "Nej! Elenor!"
+
+Elenor jämrar sig och blir blek. HP sliter upp hennes blus och suger giftet från hennes sår. Han känner själv hur han blir omtöcknad.
+
+> "HP", sa Elenor. "Fly. Ta dig hem."
+
+> "Du följer med mig", sa HP. "Ta min hand."
+
+De tar varandras händer igen och världen smälter bort. Mems vrål tonar bort.
 
 HP vaknar upp i en sjukhussäng, med slangar i näsa och hals. Han hostar, tills han blir extuberad. Han har förlorat ett ben i olyckan och har legat i koma i fem dagar. Hans lillasyster kommer och hälsar på honom. Han blir bedömd av en psykiatriker, som inte finner honom suicidal längre.
 
-En månad senare befinner han sig på rehabssjukhuset i Orup. Där träffar han en anna patient, som på pricken liknar Elenor.
+En månad senare befinner han sig på rehabssjukhuset i Orup. Där träffar han en annan patient, som på pricken liknar Elenor. Hon sitter i rullstol, med förtvinade lemmar.
+
+> "Elenor?"
+
+> Kvinnan ryckte till.
+
+> "HP?"
