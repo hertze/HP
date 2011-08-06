@@ -176,11 +176,11 @@ Trädgårdsmästaren tjatar på HP, tills han går med på att hjälpa honom ren
 
 > "Det gör dig inget gott att sitta här i mörkret. Du behöver komma ut i solen, ut det som växer."
 
-Gräsmattan bakom uteplatsen är så vildvuxen att de måste slå det med lie. Walter ber HP hämta den och ett bryne från redskapsskjulet, som står i gränsen mellan skogen och tomten. Han bryner lien och lär HP använda den. När de arbetar sitter Mem på uteplatsen och dricker kaffe, med sin bleka följeslagare. Mem hälsar på HP, som lamt hälsar tillbaka. Mem fångar en fjäril, som landat på hennes färgglada klänning och äter upp den.
+Gräsmattan bakom uteplatsen är så vildvuxen att de måste slå det med lie. Walter ber HP hämta den och ett bryne från redskapsskjulet, som står i gränsen mellan skogen och tomten. Han bryner lien och lär HP använda den. När de arbetar sitter Mem på uteplatsen och dricker kaffe, med sin bleka följeslagare. Mem hälsar på HP, som lamt hälsar tillbaka. Mem fångar en fjäril, som landat på hennes färgglada klänning och äter upp den. Himlen mulnar på och det börjar regna.
 
-På kvällen sitter HP på sitt rum i källaren, bedövad inuti. Han skär sig med en kniv i underarmen och känner smärtan och ser blodet. Om han blöder måste han väl leva? Han får en panikattack, känner hjärtat rusa i bröstet och känner hur det kryper i kroppen. Han klarar inte att sitta stilla, utan springer upp för trappan och ut i pensionatet. Han rusar genom skogen i full karriär, förbi åstrande och vidare ut bland träden. Med ens är han tillbaka vid pensionatet, som om verkligeten böjer sig i en slinga. Han svär och skriker. Mem sitter på verandan och stickar i skenet från en fotogenlampa när han får sitt utbrott.
+På kvällen sitter HP på sitt rum i källaren, bedövad inuti. Han skär sig med en kniv i underarmen och känner smärtan och ser blodet. Om han blöder måste han väl leva? Han får en panikattack, känner hjärtat rusa i bröstet och känner hur det kryper i kroppen. Han klarar inte att sitta stilla, utan springer upp för trappan och ut från pensionatet ut i regnet. Han rusar genom skogen i full karriär, förbi åstrande och vidare ut bland träden. Med ens är han tillbaka vid pensionatet, som om verkligheten böjer sig i en slinga. Han svär och skriker. Mem sitter på verandan i skydd från regnet och stickar i skenet från en fotogenlampa när han får sitt utbrott.
 
-> "Nämen, hur är det fatt, min pojke?"
+> "Nämen, hur är det fatt, min pojke? Du är ju genomblöt."
 
 > "Det är åt helvete."
 
@@ -196,7 +196,7 @@ Genom monstrets ögon ser vi den skugga av en man hon håller sig med ligga på 
 
 ## Kapitel
 
-HP ligger i sin säng och försöker somna. Husets andetag väser rytmiskt i bakggrunden. När han driver in i sömn hör han röster. Sedan ser han ett kvinnligt ansikte framför sig.
+HP ligger i sin säng och försöker somna. Husets andetag väser rytmiskt i bakggrunden. Regnet slåt mot fönstren. När han driver in i sömn hör han röster. Sedan ser han ett kvinnligt ansikte framför sig.
 
 > "Jag är inte säker på om han kan höra dig."
 
@@ -204,11 +204,15 @@ Ansiktet försvinner och hans systers rödgråtna ansikte dyker upp i stället.
 
 > "Hör du mig? Här du mig? Du lovade att inte lämna mig."
 
-HP rycker till och är klarvaken. Hans systers ansikte smälter långsamt bort.
+HP rycker till och är klarvaken. Hans systers ansikte smälter långsamt bort. Det droppar vatten i hans ansikte. Han tänder i taket och ser att det droppar från taket. Det står en decimeter vatten på golvet och det rinner in mer under fönstret. Han sliter på sig kläderna och springer upp till Elenor. De väcker Walter och sätter i gång att pumpa ut vattnet, med ångdriven.
 
-...
+> "Fan", sa Elenor. "Jag visste att vi borde ha dränerat om i höstas."
 
-Elenor och HP sitter ute på verandan på en sen kväll. De båda månskärorna lyser på himmeln.
+De håller på hela natten, tills vattnet är bortpumpat. HP och Walter gräver ett dike runt huset, som avleder vattnet.
+
+> "Det kommer ta ett tag innan ditt rum har torkat upp", sa Elenor. "Om du vill får du gärna sova hos mig tills dess. Jag har en bäddsoffa i vardagsrummet."
+
+Elenor och HP sitter ute på verandan när solen går upp. Det har varit en lång natt och de är båda helt slut. De båda månskärorna lyser fortfarande svagt på himmeln.
 
 > "HP, varför vill du komma härifrån? Det här är väl ett bra ställe?"
 
@@ -236,15 +240,23 @@ De tittar upp mot himmeln. Elenor berättar att det bara är en tunn hinna som s
 
 > "Hur vet du allt det här?"
 
-> "Mannen som tog hand om mig berättade. Waldo. Han vet mycket. Kanske vet han något som kan hjälpa dig."
-
-HP och Elenor stämmer möte i skogen dagen efter.
+> "Mannen som tog hand om mig berättade. Waldo. Han vet mycket. Kanske vet han något som kan hjälpa dig. Vi går dit i morgon."
 
 ## Kapitel
 
-HP vaknar i vargtimmen med svår ångest. Han är fuktig av svett och sängkläderna är dyngsura. Han tänder lampan på nattduksbordet och ser att täcket är fullt av spindlar. Han skriker i panik och kastar täcket åt sidan. Han springer ut i korridoren och står där och skakar. Efter en stund tar han mod till sig och går in i sitt rum igen. Han lyfter på täcket, men där är tomt. Han klarar inte att somna om, utan tar på sig kläderna och går upp till köket och brer sig en macka. Han sitter och lyssnar till huset.
+HP vaknar i vargtimmen med svår ångest. Han är fuktig av svett och sängkläderna är dyngsura. Han tänder lampan på nattduksbordet och ser att täcket är fullt av spindlar. Han skriker i panik och kastar täcket åt sidan. Han springer ut i korridoren och står där och skakar. Elenor vaknar och frågar vad det är som hänt.
 
-När solen gått upp går han ner och duschar, tung i huvudet. Sedan ger han sig ut och går en sväng i skogen, innan han ställer sig och väntar på Elenor. När han står där, lutad mot en sten, kommer Mem, som nu är klädd i vanliga kläder. Hon ler glatt mot honom. När HP försöker gå förbi honom mörknar hennes blick och hon puttar ner honom på stigen med våldsam kraft. Åtta ben växer fram under Mem, hon lyfts upp i luften och en enorm spindelkropp tar form under henne. Mem sitter kvar på ena frambenet, som en marionettdocka. Hon fortsätter prata, med gäll röst.
+> "Spindlar. Här är fullt av spindlar."
+
+Efter en stund tar han mod till sig och går in i sin säng igen. Han lyfter på täcket, men där är tomt. Han klarar inte att somna om, utan tar på sig kläderna och går ner till köket och brer sig en macka. Han sitter och lyssnar till huset.
+
+När solen gått upp kliver han ur sängen, tung i huvudet. Elenor rör sig i sängen.
+
+> "Förlåt att jag väcker dig", sa HP. "Jag går ut. Det är ingen idé att jag ligger här och stirrar i taket. Ska vi ses ute?"
+
+> "Vid stenen, om två timmar?" sa Elenor med huvudet i kudden.
+
+HP går ner och duschar och äter frukost, sedan ger han sig ut och går en sväng i skogen, innan han ställer sig och väntar på Elenor. När han står där, lutad mot en sten, kommer Mem, som nu är klädd i vanliga kläder. Hon ler glatt mot honom. När HP försöker gå förbi honom mörknar hennes blick och hon puttar ner honom på stigen med våldsam kraft. Åtta ben växer fram under Mem, hon lyfts upp i luften och en enorm spindelkropp tar form under henne. Mem sitter kvar på ena frambenet, som en marionettdocka. Hon fortsätter prata, med gäll röst.
 
 > "Jag ser din förtvivlan, din smärta. Den doftar sött och gott. Jag ser den lysa omkring dig. Ligg stilla, pojke lilla. Ge din förtvivlan till mig. Jag kan skänka dig frid."
 
@@ -258,7 +270,7 @@ HP river bort nätet från sin kropp och de flyr tillsammans genom skogen, med d
 
 > "Vet inte. Jag har aldrig gått hittåt."
 
-> "Då får vi hålla tummarna."
+> "Aldrig? Då får vi hålla tummarna."
 
 De fortsätter en bit till och HP försvinner inte tillbaka till pensionatet. Till slut kommer de till en gammal stuga i skogen. Den är helt förfallen. En bit ifrån hittar de en man, fastvuxen i jorden, med kläder och hår täckt av mossa. Mannen vaknar till liv när HP tilltalar honom och reser sig upp. När han rör sig sliter han loss hundratals små rötter ur marken. Han är ett mellanting mellan växt och människa. 
 
@@ -300,7 +312,7 @@ Elenor kommer upp till honom och tar hans hand.
 
 ## Kapitel
 
-HP får sin första lektion av Waldo nere vid sjöstranden.
+Elenor återvänder till sitt pensionat och HP får sin första lektion av Waldo nere vid sjöstranden.
 
 > "Du måste ta dig ut ur ditt eget huvud. Se dig omkring. Se skönheten i detaljerna. Se hur molnen inte alls är grå, utan hur de skiftar i toner av blått."
 
@@ -336,25 +348,55 @@ En kväll är det dimma och då hör HP på nytt barnröster som ropar efter sin
 
 > "Jag vill ha min mamma."
 
-Rösten kommer närmare honom och för ett ögonblick ser han en skepnad i dimman, innan den löses upp och försvinner. Rösten tonar bort.
+Rösten kommer närmare honom och för ett ögonblick ser han en skepnad i dimman, innan den löses upp och försvinner. Rösten tonar bort. Senare frågar han Waldo om rösterna.
 
-En morgon vaknar han med en illavarslande känsla i magen. När han kommer ut ur stugan ser han en svart svärm över pensionatet i fjärran.
+> "Myrlingar. Gengångare efter barn som satts ut i skogen av sina mödrar. För att dö. Svara dem alrig."
+
+En morgon vaknar HP med en illavarslande känsla i magen. När han kommer ut ur stugan ser han en svart svärm över pensionatet i fjärran.
 
 > "Korpar", sa Waldo. "Från den gamla skogen. Något måste ha stört dem."
 
 > "Arachne", sa HP. "Jag måste tillbaka."
 
-Han ger sig av tillbaka.
+Waldo stoppar ner sina händer i sjön.
+
+> "Hon har sänt ut något från den gamla skogen. Något som lockat med sig korparna."
+
+> "Hur kan du veta det?"
+
+> "Walden vet."
+
+> "Sjön? Hur?"
+
+> "Allt vatten är ett. Det flödar överallt i den här världen. Genomsyrar allt, berättar allt. Om man lyssnar."
+
+HP ger sig av tillbaka.
 
 ## Kapitel
 
-[...]
+När HP kommer tillbaka till pensionatet är marken svart och krälande. Miljontals spindlar kryper överallt. HP får panik. Han flyr upp i vattentornet och ser på när Elenor, Walter, Valborg och även en del av gästerna springer runt där nere och dödar spindlar.
 
-HP provar hur långt från pensionatet han kan komma innan världen böjer sig och han kommer tillbaka. Han kommer fortfarande inte längre än senast han försökte. Han blir enormt frustrerad. I fjärran hör han barnrösterna igen.
+> "HP. Kom ner! Jag behöver hjälp!"
 
-På eftermiddagen HP hjälper Walter att beskära fruktträden. Det är fortfarande varmt och svettigt och solen bränner i nacken. De sitter ner i skuggan av vattentornet och pustar ut. HP frågar om myrlingarna.
+Motvilligt klättar han ner och hjäper henne sopa ihop spidlar inne i huset. Han klarar knappt att titta på dem.
 
-> "Vad du gör, svara dem aldrig att du är deras mamma."
+> "Du har verkligen svårt för spindlar", sa Elenor.
+
+> "Ja. Jag klarar inte av dem."
+
+> "Det får vi ordna."
+
+> "Hur?"
+
+> "I morgon. I morgon ska jag visa dig."
+
+## Kapitel
+
+Morgonen efter provar HP hur långt från pensionatet han kan komma innan världen böjer sig och han kommer tillbaka. Han kommer fortfarande inte längre än senast han försökte. Han blir enormt frustrerad.
+
+På eftermiddagen HP hjälper Walter att beskära fruktträden. Det är fortfarande varmt och svettigt och solen bränner i nacken. De sitter ner i skuggan av vattentornet och pustar ut. HP berättar att han träffat en myrling.
+
+> "Vad du gör, svara dem aldrig att du är deras mamma", sa Walter.
 
 > "Varför?"
 
@@ -362,7 +404,7 @@ Walter berättar den gamla sägnen om myrlignarna. I sägnen är en man på väg
 
 ## Kapitel
 
-HP sitter vid åstranden igen tillsammans med Elenor. Hon guidar honom i en typ av mindfulness, där han ska försöka fokusera på detaljerna i sin omgivning och sjunka ner i verkligeheten utanför honom. Det går en stund, men sedan kryper det av rastlöshet i honom.
+HP sitter vid åstranden igen tillsammans med Elenor. Det är kväll. Hon har en spindel i en glasburk och försöker på HP att hålla i den. Han kan inte.
 
 > "Det går inte. Det är fan omöjligt."
 
@@ -388,7 +430,13 @@ Hon biter honom i bröstbenet och han känner hur det spänner när hon suger. A
 
 HP ser sin systers ansikte och kommer till sans. Han ser spindelmonstret över sig och vaknar upp ur lyckoruset. Han fångar en näve jord och kastar den i ögat på monstret, som vrålar till och kastar sig åt sidan. HP springer in i skogen. Monstret vrålar i fjärran.
 
-Dagen efter går HP upp till Mems lägenhet och låser upp med sin huvudnyckel. Där är tomt, men spindelväv finns lite här och var och den får honom att rysa. Han låser upp den låsta dörren. Det stinker där inne. Smuts och avföring finns på golvet. En knölig och fläckig madrass ligger i hörnet. Fönstret är förtäckt. Han går in till det angränsande rummet och ser att skålen han sett sina minnen i är borta.
+## Kapitel
+
+Morgonen efter går HP upp till Mems lägenhet och låser upp med sin huvudnyckel. Där är tomt, men spindelväv finns lite här och var och den får honom att rysa. Han låser upp den låsta dörren. Det stinker där inne. Smuts och avföring finns på golvet. En knölig och fläckig madrass ligger i hörnet. Fönstret är förtäckt. Han går in till det angränsande rummet och ser att skålen han sett sina minnen i är borta.
+
+De tillbringar dagen med att måla husets södersida och byta vindskivor.
+
+På kvällen tar Elenor med honom upp på vattentornets tak. Fjärilar svärmar där i ett hav av glittrande färger. De sitter tillsammans och tittar. HP förlorar sig själv i det vackra och tar Elenors hand. Hon ser på honom och flyttar sig närmare. Hon väntar på att han ska kyssa henne, men han vågar inte.
 
 ## Kapitel
 
@@ -402,7 +450,7 @@ På morgonen berättar han för Elenor. Han vill att hon ska följa med honom, m
 
 > "Du är rädd, eller hur?" sa HP. Elenor svarade inte. "Du är rädd för vilket liv du har lämnat efter dig."
 
-HP blir arg och besviken, kastar på sig sina kläder och går därifrån. Han stänger först in sig på sitt rum, där han sätter sig på sängen och leker med den kinesiska fingerfällan. Han drar tills det trycker över fingarna. Han känner den klaustrofobiska kittlingen i magen av att vara fast. Sedan tar han ett djupta andetag och slutar dra. Fingerfällan faller till golvet. HP suckar och går ut ur sitt rum och ut från pensionatet. Han går och går och märker plötsligt att han är i skogen, så långt bort som han tidigare har lyckats komma. Han sluter ögonen, hör ljuden omkring honom, känner vinden blåsa genom de små håren på armarna, sedan tar han ett steg fram, och ett till. När han öppnar är kvar i skogen, längre bort än någonsin. Han slår sig ner under ett träd, bedrövad. Han måste välja mellan sin syster och Elenor. Han vet inte vad han ska ta sig till.
+HP blir arg och besviken, kastar på sig sina kläder och går därifrån. Han sätter sig på verandan leker med den kinesiska fingerfällan. Han drar tills det trycker över fingarna. Han känner den klaustrofobiska kittlingen i magen av att vara fast. Sedan tar han ett djupta andetag och slutar dra. Fingerfällan faller till golvet. HP suckar och går ut ur sitt rum och ut från pensionatet. Han går och går och märker plötsligt att han är i skogen, så långt bort som han tidigare har lyckats komma. Han sluter ögonen, hör ljuden omkring honom, känner vinden blåsa genom de små håren på armarna, sedan tar han ett steg fram, och ett till. När han öppnar är kvar i skogen, längre bort än någonsin. Han slår sig ner under ett träd, bedrövad. Han måste välja mellan sin syster och Elenor. Han vet inte vad han ska ta sig till.
 
 ## Kapitel
 
