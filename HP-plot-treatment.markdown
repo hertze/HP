@@ -12,7 +12,7 @@ latex footer:			mmd-generic-footer
 
 En man vaknar upp naken i en skog. Dimman ligger tät och han ser knappt mer än någon meter framför sig. Det är iskallt och han hackar tänder där han går genom lervälling och vattenpölar. Mörka barrträd omger honom. Efter en stund hittar han en stig, som han följer. Han blir alltmer nerkyld och tagen, tills han utmattad faller ihop på stigen och förlorar medvetandet. Innan allt blir svart hör han barnröster i dimman, barnröster som ropar efter sin mamma.
 
-Han vaknar av att en kvinna ruskar honom våldsamt och ropar något. Hon hjälper honom upp på fötter och stödjer honom. Ur dimman lösgör sig ett stort hus av trä. Hon hjälper honom uppför trappstegen till verandan och in genom dörren. Innanför är det varmt och torrt. En brasa brinner. Kvinnan sveper en filt om honom och trycker ner honom i en fåtölj framför brasan.
+Medan han är medvetlös hör han en röst skrika och han ser ett kraftigt vitt ljus. Sedan vaknar av att en kvinna ruskar honom våldsamt och ropar något. Hon hjälper honom upp på fötter och stödjer honom. Ur dimman lösgör sig ett stort hus av trä. Hon hjälper honom uppför trappstegen till verandan och in genom dörren. Innanför är det varmt och torrt. En brasa brinner. Kvinnan sveper en filt om honom och trycker ner honom i en fåtölj framför brasan.
 
 > "Jag heter Elenor", sa hon.
 
@@ -34,13 +34,17 @@ Han vaknar av att en kvinna ruskar honom våldsamt och ropar något. Hon hjälpe
 
 De sitter en stund bredvid varandra och stirrar in i elden, sedan frågar HP om barnrösterna han hörde.
 
-> "Ah. Det är myrlingar. De brukar hålla sig till den gamla skogen, men ibland förvirrar de sig så här långt ut i dimman.
+> "Myrlingar. De brukar hålla sig till den grå skogen, men ibland förvirrar de sig så här långt ut i dimman.
 
 När HP blivit en smula varmare och har fått en smula att äta går han ut på verandan insvept i filten. Dimmslöjorna lättar en smula. HP tittar upp mot himlavalvet och stelnar till. Han ser två månskäror, den ena vit och skarp, den andra suddig och böljande, som om den var en reflektion i en vattenyta.
 
 ## Kapitel
 
-Morgonen efter vaknar HP upp i det rum i källaren som Elenor gett honom. När han öppnar ögonen och fokuserar blicken ser han en spindel som sitter på hans lakan. Han blir stel av skräck och känner hjärtat banka i bröstet. Tillslut rycker han till och kastar hela lakanet i från sig och flyger upp ur sängen och mot dörren. På tröskeln står han, med ryggen tryckt mot dörren, och stirrar på den vita högen på golvet. Spindeln tar sig långsamt ut från vecken, går över golvet, klättrar upp på väggen och försvinner in i ventilationen. När han lugnat sig letar han igenom rummet och hittar en handduk i ett skåp, virar den kring kroppen och går ut i korridoren. Ett par dörrar längre ner kommer han in i ett gemensamt badrum, där han låser in sig. Han står och betraktar sin taniga kropp i spegeln. Den är full av blåmärken. Han känner över dem. De ömmar inte. Han tappar upp ett varmt bad och sjunker ner under ytan. Tankarna maler i hans huvud. Vem är han? Var är han? Hur har han hamnat här?
+Morgonen efter vaknar HP upp i det rum i källaren som Elenor gett honom. Först vet han inte var han är, men sedan kryper ångesten på.
+
+> "Var är jag?"
+
+När han öppnar ögonen och fokuserar blicken ser han en spindel som sitter på hans lakan. Han blir stel av skräck och känner hjärtat banka i bröstet. Tillslut rycker han till och kastar hela lakanet i från sig och flyger upp ur sängen och mot dörren. På tröskeln står han, med ryggen tryckt mot dörren, och stirrar på den vita högen på golvet. Spindeln tar sig långsamt ut från vecken, går över golvet, klättrar upp på väggen och försvinner in i ventilationen. När han lugnat sig letar han igenom rummet och hittar en handduk i ett skåp, virar den kring kroppen och går ut i korridoren. Ett par dörrar längre ner kommer han in i ett gemensamt badrum, där han låser in sig. Han står och betraktar sin taniga kropp i spegeln. Den är full av blåmärken. Han känner över dem. De ömmar inte. Han tappar upp ett varmt bad och sjunker ner under ytan. Tankarna maler i hans huvud. Vem är han? Var är han? Hur har han hamnat här?
 
 Klädd i för stora kläder, som han hittat i en garderob på rummet, letar HP upp matsalen. Den är tom, så när som på användat porslin på en del av borden. I köket hittar han kockan Valborg, som gör i ordning ett par smörgåsar och en kopp kaffe.
 
@@ -66,11 +70,11 @@ Han bestämmer sig i alla fall för att acceptera hennes erbjudande. Han frågar
 
 ## Kapitel
 
-Dagen efter visar Elenor runt HP i det gamla huset. Det är en imponerande gammal träkåk i tre plan, med ett torn högst upp. Ute på gården står ett högt vattentorn. Hon visar hur värmepannan fungerar, driven med gas från en fyndighet ute i trädgården. Det finns ingen elektricitet, utan huset lyses upp av gaslampor. Om man lyssnar noggrant kan man högra gasen rytmiskt pulsera genom ledningarna.
+Dagen efter visar Elenor runt HP i det gamla huset. Det är en imponerande gammal träkåk i tre plan, med ett torn högst upp. Ute på gården står ett högt vattentorn och ruinerna efter en väderkvarn. Hon visar hur värmepannan fungerar, driven med gas från en fyndighet ute i trädgården. Det finns ingen elektricitet, utan huset lyses upp av gaslampor. Om man lyssnar noggrant kan man högra gasen rytmiskt pulsera genom ledningarna.
 
 > "Jag brukar tycka att det låter som andetag. Som om huset levde."
 
-Hon visar sitt eget rum uppe i tornet. HP plockar upp en kinesisk fingerfälla från byrån och lyckas fastna med sina pekfingrar.
+Hon visar sitt eget rum uppe i tornet. HP plockar upp en kinesisk fingerfälla från byrån och lyckas fastna med sina pekfingrar. Han får nästan panik.
 
 > "Du måste sluta dra om du vill komma loss", sa Elenor.
 
@@ -78,9 +82,9 @@ HP fattar inte, utan drar hårdare, tills fingrarna spränger. Elenor får visa 
 
 > "Vet du vad? Du får den av mig."
 
-HP stoppar den i fickan. De träffar några av gästerna på sin runtvandring. De flesta verkar vara mer eller mindre permanent boende där.
+HP stoppar den i fickan. De träffar några av gästerna på sin runtvandring. De flesta verkar vara mer eller mindre permanent boende där. Elenor berättar att de försöker vara så självförsörjande de kan, men de åker in till byn en gång i vecka för förnödenheter.
 
-På eftermiddagen hjälper HP Walter, trädgårdsmästaren, att röja en del i trädgården bakom pensionatet. Våren är på väg. Trädgårdsmästaren vill ta en paus och sätter sig på en bänk. HP är rastlös och har svårt att sitta stilla.
+På eftermiddagen hjälper HP Walter, trädgårdsmästaren, att röja trädgårdslandet bakom pensionatet. Våren är på väg. Trädgårdsmästaren vill ta en paus och sätter sig på en bänk. HP är rastlös och har svårt att sitta stilla.
 
 > "Vet du", sa vaktmästaren. "Du behöver verkligen lära dig att koppla av."
 
@@ -88,9 +92,17 @@ Valborg kommer ut med kaffe. Hon och Walter pussar varandra och det är uppenbar
 
 ## Kapitel
 
+HP undersöker mer om pensionatet han hamnat på. Han hittar ett litet bibliotek, med en del böcker han känner igen, men även en massa titlar som är helt okända. Han hittar en hel del okända titlar av författare han känner väl till. Han hittar även en karta, som liknar den man brukar hitta på insidan av sagoböcker. Han hittar pensionatet, ån, grå skogen och en massa andra namn och landmärken han inte känner igen.
+
+> "Var är jag? Narnia?"
+
+Han hittar en djup garderob, och en väldig helfigurspegel. Elenor knackar på och har med sig en massa kläder hon hittat, mest kvarglömda artiklar från tidigare gäster. Walter lär honom raka sig med rakkniv. HP börjar slappna av en smula och börjar finna sig till rätta.
+
+## Kapitel
+
 HP går ut till vedboden för att hämta in torr ved till huset. Det blåser upp och det börjar regna. När han står där och staplar klabbar hör han ett konstigt ljud, som en motor som varvar. När han vänder sig om ser han en upplyst trädstam, som närmar sig i hög hastighet. Trädkronan lyset grön, mitt i det grå mörkret. HP kastar sig åt sidan och han hör ljudet av metall som förvrids. När han öppnar ögonen är trädet borta. Allt är tyst. HPs puls rusar.
 
-HP, Elenor, kockan och kanske två till ur staben sitter i köket på kvällen och äter en festmåltid. De skojar och har det bra. HP har funnit sig riktigt väl tillrätta. Han trivs med sin tillvaro. Han tittar alldeles för mycket på Elenor och lägger märke till hur vacker hon är. Utanför stormar det hårt och regnet piskar mot fönstren. Det är ett riktigt aprilväder.
+HP, Elenor, kockan och kanske två till ur staben sitter i köket på kvällen och äter en festmåltid. De skojar och har det bra. HP har funnit sig riktigt väl tillrätta. Han trivs med sin tillvaro. Han tittar alldeles för mycket på Elenor och lägger märke till hur vacker hon är. Utanför stormar det hårt och regnet piskar mot fönstren. Det är det första riktiga vårovädret.
 
 ## Kapitel
 
@@ -138,7 +150,15 @@ Elenor knackar på dörren till HPs rum, men ingen svarar. Hon öppnar dörren m
 
 > "HP, du måste äta något."
 
-När han inte svarar går hon därifrån. Ett par dagar passerar på samma sätt, utan att han lämnar rummet och utan att han rör maten. En kväll märker hon sedan att han åtminstone ätit en smörgås. Morgonen efter sitter han upp i sängen när hon kommer. Han frågar hur länge han legat där. Han frågar henne också om hon vet hur han kan komma tillbaka till sin egen värld, men hon vet inte.
+När han inte svarar går hon därifrån. Ett par dagar passerar på samma sätt, utan att han lämnar rummet och utan att han rör maten. En kväll märker hon sedan att han åtminstone ätit en smörgås. Morgonen efter sitter han upp i sängen när hon kommer. Han frågar hur länge han legat där. Han frågar henne också om hon vet hur han kan komma tillbaka till sin egen värld, men hon vet inte. Han har sett byn på kartan. Någon där måste väl kunna hjälpa honom hem. Elenor går med på att köra honom dit. Hon eldar igång den vedeldade, ångdrivna bilen och de kör iväg mot byn. Någon kilometer från pensionatet försvinner Elenor och bilen i tomma intet och HP slår i marken. Han sitter i lervällingen och vrålar av frustation. Efter en stund kommer Elenor tillbaka.
+
+> "Jag är ledsen, HP. Det verkar som du inte kan komma längre. I alla fall inte just nu."
+
+> "Men varför?"
+
+> "Jag vet inte. Reglerna verkar vara olika för oss alla här."
+
+## Kapitel
 
 HP står i badrummet och betraktar sin spegelbild igen. Blåmärkerna är borta, men han ser blek och glåmig ut. Hans spegelbild tonar över i bilder från kraschen igen och sedan sin mor, som ber honom ta hand om hans lillasyster. Han tvivlar på att det han sett verkligen har inträffat. Är det inbillning? Håller han på att bli galen?
 
@@ -204,7 +224,7 @@ Genom monstrets ögon ser vi den skugga av en man hon håller sig med ligga på 
 
 ## Kapitel
 
-HP bestämmer sig för att ta sitt liv, i hopp om att då komma tillbaka till den andra världen. Han stiger ner i den iskalla ån och håller andan. Han får försöka flera gånger, men han flyter hela tiden upp. Till slut tynger han ner sig med sten och sjunker till åns botten. Han håller andan tills det värker i bröstet, sedan öppnar han munnen och andas in vatten. Han tänker att det snart är över, men det bara fortsätter. Det spränger och värker, men han dör inte. Till slut ger han upp och tar sig ur ån. Dyngsur och skamsen smyger han in på pensionatet.
+HP provar att gå genom en garderob för att komma tillbaka, men han slår bara i väggen. Han försöker gå genom en spegel, men inget händer där heller. Då bestämmer sig för att ta sitt liv, i hopp om att då komma tillbaka till den andra världen. Han stiger ner i den iskalla ån och håller andan. Han får försöka flera gånger, men han flyter hela tiden upp. Till slut tynger han ner sig med sten och sjunker till åns botten. Han håller andan tills det värker i bröstet, sedan öppnar han munnen och andas in vatten. Han tänker att det snart är över, men det bara fortsätter. Det spränger och värker, men han dör inte. Till slut ger han upp och tar sig ur ån. Dyngsur och skamsen smyger han in på pensionatet.
 
 ## Kapitel
 
@@ -216,7 +236,7 @@ Ansiktet försvinner och hans systers rödgråtna ansikte dyker upp i stället.
 
 > "Hör du mig? Här du mig? Du lovade att inte lämna mig."
 
-HP rycker till och är klarvaken. Hans systers ansikte smälter långsamt bort. Det droppar vatten i hans ansikte. Han tänder i taket och ser att det droppar från taket. Det står en decimeter vatten på golvet och det rinner in mer under fönstret. Han sliter på sig kläderna och springer upp till Elenor. De väcker Walter och sätter i gång att pumpa ut vattnet, med ångdriven.
+HP rycker till och är klarvaken. Hans systers ansikte smälter långsamt bort. Det droppar vatten i hans ansikte. Han tänder i taket och ser att det droppar från taket. Det står en decimeter vatten på golvet och det rinner in mer under fönstret. Han sliter på sig kläderna och springer upp till Elenor. De väcker Walter och sätter i gång att pumpa ut vattnet, med ångdriven pump.
 
 > "Fan", sa Elenor. "Jag visste att vi borde ha dränerat om i höstas."
 
@@ -254,7 +274,7 @@ De tittar upp mot himmeln. Elenor berättar att det bara är en tunn hinna som s
 
 > "Mannen som tog hand om mig berättade. Waldo. Han vet mycket. Kanske vet han något som kan hjälpa dig. Vi går dit i morgon."
 
-Elenor eldar igång den ångdrivna bilen för att köra till byn efter förnödelheter. HP följer med, men några kilometer från pensionatet försvinner bilen i tomma intet och han faller till marken framför pensionatet. Elenor kommer åkande efter en stund och beklagar att han inte kan följa med, innan hon kör själv.
+Elenor kör in till byn för att handla utrustning.
 
 ## Kapitel
 
@@ -306,7 +326,11 @@ Waldo berättar att han inte är död. Inte ännu. Men det brådskar om han ska 
 
 > "Ja. Men det finns inget motsatsförhållande mellan att släppa taget och att ha bråttom."
 
-HP berättar om monstret. Waldo känner igen henne som Arachne, en uråldrig best som livnär sig på förtvivlan. Hon kan inte tvinga till sig den, utan den måste erbjudas henne av hennes offer. När hon dricker den får de tillfällig ångestlindring, vilket skapar ett beroende.
+> "Varför är jag här?"
+
+> "Du är här för att du behöver lära dig något."
+
+HP berättar om monstret. Waldo känner igen henne som Ataraxia, en uråldrig best som livnär sig på förtvivlan. Hon kan inte tvinga till sig den, utan den måste erbjudas henne av hennes offer. När hon dricker den får de tillfällig ångestlindring, vilket skapar ett beroende.
 
 > "Hon är en parasit. En rest från den gamla världen. Om hon har fått upp ögonen för dig måste du hålla dig undan henne till varje pris."
 
@@ -344,11 +368,11 @@ HP försöker göra sig hemmastadd i Waldos fallfärdiga torp. Han samlar ihop g
 
 Nästa lektion går ut på att sitta. Det är skitsvårt får HP, som blir så frustrerad att han hoppar upp och börjar vandra omkring.
 
-> "Igen. Försök igen."
+> "Igen. Försök igen. Du måste lära dig att sitta med obehag."
 
 ## Kapitel
 
-Tiden går och HP blir bättre och bättre, men något namn har han inte kommit ihåg. På nätterna drömmer han om sin syster, men alltmer även om Elenor. Han stirrar ut mot horisonten, mot platsen för pensionatet.
+Tiden går och HP blir bättre och bättre, men något namn har han inte kommit ihåg. Vi ser hur han lägger sig i gräset och bokstavligen upplever hur han sjunker ner i det. Han hör grässtråna viska när de växer. På nätterna drömmer han om sin syster, men alltmer även om Elenor. Han stirrar ut mot horisonten, mot platsen för pensionatet.
 
 En kväll är det dimma och då hör HP på nytt barnröster som ropar efter sin mamma. En röst kommer närmare.
 
@@ -368,13 +392,13 @@ Rösten kommer närmare honom och för ett ögonblick ser han en skepnad i dimma
 
 En morgon vaknar HP med en illavarslande känsla i magen. När han kommer ut ur stugan ser han en svart svärm över pensionatet i fjärran.
 
-> "Korpar", sa Waldo. "Från den gamla skogen. Något måste ha stört dem."
+> "Korpar", sa Waldo. "Något måste ha stört dem."
 
-> "Arachne", sa HP. "Jag måste tillbaka."
+> "Ataraxia", sa HP. "Jag måste tillbaka."
 
 Waldo stoppar ner sina händer i sjön.
 
-> "Hon har sänt ut något från den gamla skogen. Något som lockat med sig korparna."
+> "Hon har sänt ut något från den grå skogen. Något som lockat med sig korparna."
 
 > "Hur kan du veta det?"
 
@@ -404,11 +428,13 @@ Motvilligt klättar han ner och hjäper henne sopa ihop spidlar inne i huset. Ha
 
 > "I morgon. I morgon ska jag visa dig."
 
+På kvällen tar Elenor med honom upp på vattentornets tak. Fjärilar svärmar där i ett hav av glittrande färger. De sitter tillsammans och tittar. HP förlorar sig själv i det vackra och tar Elenors hand. Hon ser på honom och flyttar sig närmare. Hon väntar på att han ska kyssa henne, men han vågar inte.
+
 ## Kapitel
 
 Morgonen efter provar HP hur långt från pensionatet han kan komma innan världen böjer sig och han kommer tillbaka. Han kommer lite längre än senast.
 
-På eftermiddagen HP hjälper Walter att beskära fruktträden. Det är fortfarande varmt och svettigt och solen bränner i nacken. De sitter ner i skuggan av vattentornet och pustar ut. HP berättar att han träffat en myrling.
+På eftermiddagen HP hjälper Walter att beskära fruktträden. Det är fortfarande varmt och svettigt och solen bränner i nacken. Walter vill ändå göra det nu, för frosten är på väg. Han känner det i luften. De sitter ner i skuggan av vattentornet och pustar ut. HP berättar att han träffat en myrling.
 
 > "Vad du gör, svara dem aldrig att du är deras mamma", sa Walter.
 
@@ -442,17 +468,27 @@ Hon biter honom i bröstbenet och han känner hur det spänner när hon suger. A
 
 > "Det -- det känns fantastiskt."
 
-> "Så här skulle du kunna ha det resten av livet.
+> "Så här skulle du kunna ha det resten av livet."
 
 HP ser sin systers ansikte och kommer till sans. Han ser spindelmonstret över sig och vaknar upp ur lyckoruset. Han fångar en näve jord och kastar den i ögat på monstret, som vrålar till och kastar sig åt sidan. HP springer in i skogen. Monstret vrålar i fjärran.
 
 ## Kapitel
 
-Morgonen efter går HP upp till Mems lägenhet och låser upp med sin huvudnyckel. Där är tomt, men spindelväv finns lite här och var och den får honom att rysa. Han låser upp den låsta dörren. Det stinker där inne. Smuts och avföring finns på golvet. En knölig och fläckig madrass ligger i hörnet. Fönstret är förtäckt. Han går in till det angränsande rummet och ser att skålen han sett sina minnen i är borta.
+Morgonen efter går HP upp till Mems lägenhet och låser upp med sin huvudnyckel. Där är tomt, men spindelväv finns lite här och var och den får honom att rysa. Han låser upp den låsta dörren. Det stinker där inne. Smuts och avföring finns på golvet. En knölig och fläckig madrass ligger i hörnet. Fönstret är förtäckt. Han går in till det angränsande rummet och ser att skålen han sett sina minnen i är borta. I en låst garderob hittar han ett mumifierat kvinnolik, insvept i spindelnät. Liket saknar hur. Muskler och senar skimrar svagt, som om någon sprinklat guldstoff över.
 
 De tillbringar dagen med att måla husets södersida och byta vindskivor. HP tycker sig se en man, som står i skogsbrynet och iakttar honom. Det ser ut som Rene. När Elenor tittar är han borta.
 
-På kvällen tar Elenor med honom upp på vattentornets tak. Fjärilar svärmar där i ett hav av glittrande färger. De sitter tillsammans och tittar. HP förlorar sig själv i det vackra och tar Elenors hand. Hon ser på honom och flyttar sig närmare. Hon väntar på att han ska kyssa henne, men han vågar inte.
+Sent på natten hjälper Walter HP att gräva ner kvinnoliket i skogen. Det skimrar svagt i månskenet, som om det vore självlysande.
+
+> "Vad är det här?" sa HP.
+
+> "Vet inte. Har aldrig sett något liknande."
+
+> "Känner du lukten?"
+
+> "Ja."
+
+> "Är det honung? Knappast vad lik brukar lukta?"
 
 ## Kapitel
 
@@ -466,19 +502,19 @@ På morgonen berättar han för Elenor. Han vill att hon ska följa med honom, m
 
 > "Du är rädd, eller hur?" sa HP. Elenor svarade inte. "Du är rädd för vilket liv du har lämnat efter dig."
 
-HP blir arg och besviken, kastar på sig sina kläder och går därifrån. Han sätter sig på verandan leker med den kinesiska fingerfällan. Han drar tills det trycker över fingarna. Han känner den klaustrofobiska kittlingen i magen av att vara fast. Sedan tar han ett djupta andetag och slutar dra. Fingerfällan faller till golvet. HP suckar och går ut ur sitt rum och ut från pensionatet. Han går och går och märker plötsligt att han är i skogen, så långt bort som han tidigare har lyckats komma. Han sluter ögonen, hör ljuden omkring honom, känner vinden blåsa genom de små håren på armarna, sedan tar han ett steg fram, och ett till. När han öppnar är kvar i skogen, längre bort än någonsin. Han kan se den gamla skogen, långt borta. Han slår sig ner under ett träd, bedrövad. Han måste välja mellan sin syster och Elenor. Han vet inte vad han ska ta sig till.
+HP blir arg och besviken, kastar på sig sina kläder och går därifrån. Han sätter sig på verandan leker med den kinesiska fingerfällan. Han drar tills det trycker över fingarna. Han känner den klaustrofobiska kittlingen i magen av att vara fast. Sedan tar han ett djupta andetag och slutar dra. Fingerfällan faller till golvet. HP suckar och går ut ur sitt rum och ut från pensionatet. Han går och går och märker plötsligt att han är i skogen, så långt bort som han tidigare har lyckats komma. Han sluter ögonen, hör ljuden omkring honom, känner vinden blåsa genom de små håren på armarna, sedan tar han ett steg fram, och ett till. När han öppnar är kvar i skogen, längre bort än någonsin. Han kan se den grå skogen, långt borta. Han slår sig ner under ett träd, bedrövad. Han måste välja mellan sin syster och Elenor. Han vet inte vad han ska ta sig till.
 
 ## Kapitel
 
 Det är kväll när han går stigen tillbaka till pensionatet. Redan på långt håll ser han lågor och en enorm rökpelare. Han börjar springa och ser att pensionatet står i lågor. Alla gäster står ute på gräsmattan. Elenor finns ingenstans. Någon såg henne gå in genom ytterdörren tidigare under kvällen. HP tar sig in i det  brinnande huset, fram till Elenors lägenhet. Den är tom, men där finns spår av strid. Spindelväv klibbar överallt.
 
-På vägen ut attackeras HP av Mems tidigare följeslagare. Han är svartsjuk över att ha blivit förskjuten och försöker nu ta livet av HP, medan byggnaden börjar rasa ihop omkring dem. HP lyckas övermanna honom. Han försöker tvingar ur Rene vart Mem fört Elenor, men han vet inte. Han vet bara att Mem bor i den gamla skogen. HP hinner precis ut innan gasen i huset antänds och det blir en enorm explosion. Gasfyndigheten under huset antänds och en väldig eldslåga sträcker sig upp mot skyn.
+På vägen ut attackeras HP av Mems tidigare följeslagare. Han är svartsjuk över att ha blivit förskjuten och försöker nu ta livet av HP, medan byggnaden börjar rasa ihop omkring dem. HP lyckas övermanna honom. Han försöker tvingar ur Rene vart Mem fört Elenor, men han vet inte. Han vet bara att Mem bor i den grå skogen. HP hinner precis ut innan gasen i huset antänds och det blir en enorm explosion. Gasfyndigheten under huset antänds och en väldig eldslåga sträcker sig upp mot skyn.
 
 # Del fyra - resolution
 
 ## Kapitel
 
-HP beväpnar sig med en lie och en ficklampa, som han hittar i redskapsskjulet, och ger sig iväg mot Mems håla. Han går till utkanten av hur långt han tidigare kommit och står där vid gränsen. Han sluter ögonen och låter sig själv sjunka ner i världen omkring honom. Andetagen blir långsammare, hjärtat lugnar sig. Så tar han ett steg framåt och öppnar ögonen. Han är kvar, han har inte dykt upp vid hotellet igen. Han tar ett steg till och ett till. Så här långt bort har han aldrig kommit tidigare. Han fortsätter gå stigen fram och kommer till den gamla skogen. Där är mörkt och fuktigt. Markdimma ringlar mellan trädstammarna. Trädkronorna är så täta att nästan inget solljus når marken. HP vet inte var han ska leta. Förtvivlad sätter han sig ner, med ryggen mot en trädstam, och gråter. Smärtan skär igenom honom och han gråter tills ansiktet är svullet och det värker i magen. Utmattad faller han i sömn, hopkurad i fosterställning.
+HP beväpnar sig med en lie och en ficklampa, som han hittar i redskapsskjulet, och ger sig iväg mot Mems håla. Han går till utkanten av hur långt han tidigare kommit och står där vid gränsen. Han sluter ögonen och låter sig själv sjunka ner i världen omkring honom. Andetagen blir långsammare, hjärtat lugnar sig. Så tar han ett steg framåt och öppnar ögonen. Han är kvar, han har inte dykt upp vid hotellet igen. Han tar ett steg till och ett till. Så här långt bort har han aldrig kommit tidigare. Han fortsätter gå stigen fram och kommer till den grå skogen. Där är mörkt och fuktigt. Färgerna försvinner gradvis, tills allt är nyanser av grått. Markdimma ringlar mellan trädstammarna. Trädkronorna är så täta att nästan inget solljus når marken. HP vet inte var han ska leta. Förtvivlad sätter han sig ner, med ryggen mot en trädstam, och gråter. Smärtan skär igenom honom och han gråter tills ansiktet är svullet och det värker i magen. Utmattad faller han i sömn, hopkurad i fosterställning.
 
 ## Kapitel
 
@@ -492,9 +528,9 @@ Han gnuggar barren ur ögonen och sätter sig upp. Myrlingar står framför hono
 
 > "Säg. Säg."
 
-> "Arachne är er mamma."
+> "Ataraxia är er mamma."
 
-> "Arachne", sa myrligarna.
+> "Ataraxia", sa myrligarna.
 
 De började springa genom skogen, som små lysande irrbloss. HP kommer på fötter och följer efter dem. Andfådd kommer de fram till ett hål ner i underjorden, under rötterna till en väldig ask. Myrligarna försvinner ner. HP tvekar en kort stund och letar sig sedan själv nedåt, genom en fuktig tunnel med jordväggar. Han hör Mem vråla i fjärran. Spindelväv täpper till gången här och var och han måste skära sig igenom. Nere i mörkret hittar han Elenor, bunden i nät, som en kokong. Han skär ut henne, men hon är livlös. När han lägger örat mot hennes bröst hör han hjärtljud och han bankar henne på bröstet, lägger läpparna mot hennes mun och gör några tafatta inblåsningar. Hon vaknar långsamt till liv. Stödd mot HP börjar de ta sig ut. De går uppåt, men HP inser till slut att de gått vilse. Det är som en labyrint av gångar. De kommer tillbaka till samma håla som de börjat. Mem dyker upp ur mörkret. Hon biter och slår efter myrlingarna, som svärmar omkring henne. Med ett vrål sliter hon dem i stycken. Hon ser HP och Elenor och tränger upp dem mot väggen.
 
